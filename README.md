@@ -1,6 +1,10 @@
 # MaiGenre
 Implemention of Classification Algorithms for Music Genre Features
 
+## Moderators
+* Yidong Cui
+* Yan Zhang
+* Ting Gao
 ## Introduction
 
 在进行基于人工智能的音乐创作研究过程中，需要提取不同流派音乐的特征。
